@@ -1,0 +1,1 @@
+ C:\\Users\\gay\\Documents\\TFG\\tfg_flutter_chat_pablo_vara_naranjo\\.dart_tool\\flutter_build\\5954cbe7934e602e4f72ceed4af5fe19\\native_assets.yaml: 
